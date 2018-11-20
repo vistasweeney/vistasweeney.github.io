@@ -29,7 +29,7 @@
 }
 
 .main-header .showcase {
-  padding-top: 250px;
+  padding-top: 150px;
 }
 
 .section-about {
@@ -42,11 +42,20 @@
   min-height: 600px;
 }
 
+.section-contact {
+  position: relative;
+  background: url(../img/overlay1.jpeg);
+  background-size: cover;
+  background-position: center;
+  border-top: #f48fb1 solid 5px;
+  /* border-bottom: #f48fb1 solid 5px; */
+  min-height: 450px;
+}
 .scroll-icon {
   position: absolute;
   bottom: 5%;
   left: 47%;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 
 /* .section-about {

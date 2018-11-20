@@ -1,5 +1,5 @@
 .primary-overlay {
-  background: rgba(112, 81, 176, 0.7);
+  background: rgba(77, 182, 172, 0.7);
   position: absolute;
   top: 0;
   width: 100%;
@@ -7,7 +7,7 @@
   overflow: hidden;
 }
 .main-header {
-  background: url(../img/background.jpg);
+  background: url(../img/galaxy.jpg);
   background-size: cover;
   background-position: center;
   min-height: 600px;
@@ -19,7 +19,7 @@
 }
 
 .active-link {
-  color: #d847f1 !important;
+  color: #4db6ac !important;
   font-weight: bold;
 }
 
@@ -48,7 +48,7 @@
 }
 
 .section-podcast .primary-overlay {
-  background: rgba(112, 81, 176, 0.9);
+  background: rgba(11, 104, 95, 0.9);
 }
 
 .carousel-item p {
@@ -57,7 +57,7 @@
 
 /* Solutions.html */
 .main-header-inner {
-  background: url(../img/background.jpg);
+  background: url(../img/galaxy.jpg);
   background-size: cover;
   background-position: center;
   min-height: 350px;
@@ -69,7 +69,7 @@
 }
 
 .tabs .indicator {
-  background-color: #6a1b9a !important;
+  background-color: #4db6ac !important;
 }
 
 /* Solutions.html */
